@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Heebo", sans-serif;
+}
+ul,
+li {
+  list-style: none;
+  display: flex;
+}
+a {
+  text-decoration: none;
+}
+button {
+  border: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+header {
+  background-image: url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=);
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+header nav .icons {
+  text-align: center;
+  padding: 10px;
+}
+.fa-brands {
+  background-color: white;
+  padding: 8px;
+  border-radius: 20px;
+}
+.nav-bar {
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+.nav-bar ul li a {
+  padding: 30px;
+  color: rgb(124, 124, 124);
+  cursor: pointer;
+}
+.nav-bar h3 {
+  font-size: 30px;
+  padding: 30px;
+  color: red;
+}
+.studio h1 {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 150px;
+  border-bottom: 1px solid white;
+  padding-bottom: 10px;
+}
+.studio p {
+  color: rgb(189, 189, 189);
+  text-align: center;
+  padding-top: 15px;
+  font-size: 18px;
+}
+.btn {
+  padding: 10px 15px;
+  margin-left: 520px;
+  margin-top: 15px;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
