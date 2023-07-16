@@ -88,7 +88,7 @@ header nav .icons {
   display: flex;
   gap: 20px;
   height: 280px;
-  padding: 30px 0;
+  padding: 30px 0 70px 0;
 }
 .quti-1 {
   background-color: rgb(54, 148, 126);
@@ -108,9 +108,17 @@ header nav .icons {
 }
 .box .fa-regular {
   padding-left: 50%;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 .fa-solid {
   padding-left: 50%;
-  margin-top: 100px;
+  margin-top: 80px;
+}
+.portfolio h3 {
+  text-align: center;
+  padding-bottom: 5px;
+}
+.portfolio p {
+  text-align: center;
+  font-size: 12px;
 }
