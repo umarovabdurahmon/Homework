@@ -20,7 +20,7 @@ button {
   margin: 0 auto;
 }
 header {
-  background-image: url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=);
+  background-image: url(https://sworld.co.uk/img/img/571/photoAlbum/482515/originals/0.jpeg);
   background-repeat: no-repeat;
   height: 500px;
   background-position: center;
@@ -61,7 +61,7 @@ header nav .icons {
   padding-bottom: 10px;
 }
 .studio p {
-  color: rgb(189, 189, 189);
+  color: white;
   text-align: center;
   padding-top: 15px;
   font-size: 18px;
@@ -73,4 +73,44 @@ header nav .icons {
   background-color: red;
   color: white;
   cursor: pointer;
+}
+.our-services h3 {
+  text-align: center;
+  padding-top: 50px;
+}
+.our-services p {
+  text-align: center;
+  font-size: 10px;
+  padding: 5px;
+}
+.box {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  height: 280px;
+  padding: 30px 0;
+}
+.quti-1 {
+  background-color: rgb(54, 148, 126);
+  width: 80%;
+}
+.quti-2 {
+  background-color: rgb(231, 153, 8);
+  width: 80%;
+}
+.quti-3 {
+  background-color: blue;
+  width: 80%;
+}
+.quti-4 {
+  background-color: rgb(5, 229, 143);
+  width: 80%;
+}
+.box .fa-regular {
+  padding-left: 50%;
+  margin-top: 100px;
+}
+.fa-solid {
+  padding-left: 50%;
+  margin-top: 100px;
 }
