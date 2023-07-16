@@ -122,3 +122,22 @@ header nav .icons {
   text-align: center;
   font-size: 12px;
 }
+.rasmlar {
+  display: flex;
+  width: 100%;
+  gap: 30px;
+  height: 250px;
+  margin-top: 30px;
+}
+.rasm1 {
+  width: 100%;
+}
+.rasm2 {
+  width: 100%;
+}
+.rasm3 {
+  width: 100%;
+}
+.rasm4 {
+  width: 100%;
+}
